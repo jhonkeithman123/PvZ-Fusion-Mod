@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dCUZtt5u7vw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\131fgh\\Desktop\\PvZ_Fusion_Mod\\Blooms_Mods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\131fgh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\131fgh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\131fgh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
