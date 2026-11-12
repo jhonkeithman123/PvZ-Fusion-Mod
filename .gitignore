@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+
+# .NET / Visual Studio
+*.user
+*.suo
+*.userprefs
+*.cache
+.vs/
+
+# OS noise
+Thumbs.db
+.DS_Store
